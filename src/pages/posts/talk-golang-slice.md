@@ -5,7 +5,7 @@ pubDate: 2022-04-17
 description: '从Go源码分析切片的扩容机制。'
 author: 'Austin'
 cover:
-    url: 'https://pic.lookcos.cn/i/usr/uploads/2023/02/1277661091.png'
+    url: 'https://ichef.bbci.co.uk/news/1024/cpsprodpb/14202/production/_108243428_gettyimages-871148930.jpg'
     square: 'https://pic.lookcos.cn/i/usr/uploads/2023/02/1277661091.png'
     alt: 'cover'
 tags: ["源码研究", "标准库", "golang", "slice"]
