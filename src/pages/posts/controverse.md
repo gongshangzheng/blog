@@ -5,8 +5,8 @@ pubDate: 2024-01-14
 description: ''
 author: 'MOREAU Gaël'
 cover:
-    url: 'https://media.licdn.com/dms/image/D4D12AQEnxLwcViTyCA/article-cover_image-shrink_720_1280/0/1663143946697?e=2147483647&v=beta&t=w8LINEc8MBvHwoTVLIZGEVaf85WVAaUAtxfdaiP0buA'
-    square: 'https://media.licdn.com/dms/image/D4D12AQEnxLwcViTyCA/article-cover_image-shrink_720_1280/0/1663143946697?e=2147483647&v=beta&t=w8LINEc8MBvHwoTVLIZGEVaf85WVAaUAtxfdaiP0buA'
+    url: 'https://reurl.cc/4jQx3Y'
+    square: 'https://reurl.cc/4jQx3Y'
     alt: 'cover'
 tags: ["Controverse"]
 theme: 'light'

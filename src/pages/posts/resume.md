@@ -5,8 +5,8 @@ pubDate: 2024-01-14
 description: ''
 author: 'ZHAO Xiaoda'
 cover: 
-    url: 'https://reurl.cc/eLXrm7'
-    square: 'https://reurl.cc/eLXrm7'
+    url: 'https://www.analyticsinsight.net/wp-content/uploads/2021/09/Do-We-Have-A-Backup-Plan-If-Artificial-Intelligence-Causes-Unemployment.jpg?fbclid=IwAR0zpEGgKwpg2yFcg_WA8TQ7ka4wanPN4Ff7QJ6GUv5Wk-oKUDHUDDfKX2M'
+    square: 'https://www.analyticsinsight.net/wp-content/uploads/2021/09/Do-We-Have-A-Backup-Plan-If-Artificial-Intelligence-Causes-Unemployment.jpg?fbclid=IwAR0zpEGgKwpg2yFcg_WA8TQ7ka4wanPN4Ff7QJ6GUv5Wk-oKUDHUDDfKX2M'
     alt: 'cover'
 tags: ["Content"]
 theme: 'light'
