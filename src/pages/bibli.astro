@@ -1,0 +1,26 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ArchivePostList from "../layouts/ArchivePostList.astro";
+const allPosts = await Astro.glob("./posts/*.md");
+const tags = ["Content"];
+const posts = [];
+
+tags.forEach((tag) => {
+  let filteredPosts = allPosts.filter((post) => post.frontmatter.tags.includes(tag));
+  posts.push(filteredPosts);
+});
+---
+<BaseLayout primaryTitle="about us">
+        <div class="bibliographie">
+          <h2 class="tag-header">Bibliographie</h2>
+          <div class="tag-post-list">
+            <ul>
+              <li>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+  </BaseLayout>
+  
