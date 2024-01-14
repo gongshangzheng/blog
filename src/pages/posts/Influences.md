@@ -1,15 +1,15 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: "Les examples de l'influence dans la marché d'emploi"
-pubDate: 2022-04-17
-description: '从Go源码分析切片的扩容机制。'
-author: 'Austin'
+pubDate: 2024-01-14
+description: ''
+author: 'YANG Junhao'
 cover:
     url: 'https://ichef.bbci.co.uk/news/1024/cpsprodpb/14202/production/_108243428_gettyimages-871148930.jpg'
     square: 'https://ichef.bbci.co.uk/news/1024/cpsprodpb/14202/production/_108243428_gettyimages-871148930.jpg'
     alt: 'cover'
 tags: ["Introduction"]
-theme: 'dark'
+theme: 'light'
 featured: false
 ---
 1. BT, le plus grand opérateur de télécommunications du Royaume-Uni, a déclaré qu'il supprimerait jusqu'à 55 000 emplois, soit environ 42 % de ses effectifs, d'ici à 2030, afin de réduire considérablement ses coûts. Il a été rapporté que 10 000 des emplois supprimés proviendraient du secteur des services à la clientèle, qui seront remplacés par des technologies de numérisation et d'automatisation.
