@@ -4,7 +4,8 @@ title: "Résumé"
 pubDate: 2024-01-14
 description: ''
 author: 'ZHAO Xiaoda'
-cover: 'https://reurl.cc/eLXrm7'
+cover: 
+    url: 'https://reurl.cc/eLXrm7'
     square: 'https://reurl.cc/eLXrm7'
     alt: 'cover'
 tags: ["Content"]
