@@ -1,5 +1,5 @@
-export const SITE_TITLE = `l'influence de l'IA sur le monde professionnel`;
-export const SITE_DESCRIPTION = 'Les IA ont ';
+export const SITE_TITLE = `Complexité IA`;
+export const SITE_DESCRIPTION = "Notre site web se concentre sur les impacts rapides de l'évolution de l'IA sur le marché du travail, en mettant particulièrement l'accent sur la possibilité de chômage liée à l'IA. Alors que la numérisation de la main-d'œuvre progresse, certains emplois traditionnels pourraient être transformés, voire remplacés, par l'automatisation. Nous approfondissons la compréhension de ces changements et proposons des conseils sur les nouvelles opportunités d'emploi et l'importance des compétences. En vue d'un avenir où l'IA coexiste avec l'humanité, nous mettons en avant des recommandations pour les individus et les organisations afin de faire face à ces changements et aux défis émergents.";
 export const SITE_EMAIL = 'xinyu.zheng@centrale.centralelille.fr'
 export const SITE_NAME = 'l\'influence de l\'IA sur le monde professionnel';
 export const SITE_URL = "https://blog-lovat-psi.vercel.app/";
