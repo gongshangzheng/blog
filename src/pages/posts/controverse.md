@@ -5,8 +5,8 @@ pubDate: 2024-01-14
 description: ''
 author: 'MOREAU Gaël'
 cover:
-    url: 'https://reurl.cc/4jQx3Y'
-    square: 'https://reurl.cc/4jQx3Y'
+    url: 'https://bicontent.businessinsurance.com/1fe6b81a-2209-4cfd-aa5a-ebd1748ca950.jpg'
+    square: 'https://bicontent.businessinsurance.com/1fe6b81a-2209-4cfd-aa5a-ebd1748ca950.jpg'
     alt: 'cover'
 tags: ["Controverse"]
 theme: 'light'
