@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: 'Les examples de l'influence dans la marché d'emploi'
+title: "Les examples de l'influence dans la marché d'emploi"
 pubDate: 2022-04-17
 description: '从Go源码分析切片的扩容机制。'
 author: 'Austin'
