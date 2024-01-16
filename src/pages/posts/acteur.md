@@ -45,7 +45,7 @@ Les économistes **Daron Acemoglu** et **Pascual Restrepo** ont exploré dans le
 
 Un article sur les opportunités d'emploi créées par l'IA mentionne les nouveaux rôles professionnels générés par l'intégration de l'IA dans des systèmes complexes, tels que les "interprètes" et les "supporteurs". Les interprètes sont chargés d'expliquer le fonctionnement de l'IA et les divers résultats produits par le système, tandis que les supporteurs sont responsables de la gestion des systèmes d'IA, en veillant à leur bon fonctionnement et en traitant les conséquences imprévues éventuelles.
 
-Selon le "Guide de recherche d'emploi dans l'industrie Internet pour l'année 2021" publié par Zhaopin, les secteurs technologiques tels que l'intelligence artificielle et le développement de logiciels offrent des rémunérations compétitives, et parmi les 20 premiers postes en termes de salaires moyens de recrutement, ces domaines occupent une place prépondérante.
+Selon le **"Guide de recherche d'emploi dans l'industrie Internet pour l'année 2021"** publié par Zhaopin, les secteurs technologiques tels que l'intelligence artificielle et le développement de logiciels offrent des rémunérations compétitives, et parmi les 20 premiers postes en termes de salaires moyens de recrutement, ces domaines occupent une place prépondérante.
 
 **Paul McCartney** a utilisé l'IA pour terminer une "dernière" chanson avec une démo de John Lennon, mettant en avant le potentiel de l'IA dans les processus créatifs.
 
