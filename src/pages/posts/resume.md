@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: "Résumé"
+title: "Présentation de la controverse'"
 pubDate: 2024-01-14
 description: ''
 author: 'ZHAO Xiaoda'

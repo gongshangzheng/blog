@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: "La controverse entourant l'impact de l'intelligence artificielle (IA) sur le marché du travail"
+title: "Positionnements"
 pubDate: 2024-01-14
 description: ''
 author: 'MOREAU Gaël'
@@ -13,6 +13,7 @@ theme: 'light'
 featured: false
 ---
 
+<img src="https://raw.githubusercontent.com/gongshangzheng/blog/main/src/pages/posts/graph1.png" width="576px"><ln>
 La controverse entourant l'impact de l'intelligence artificielle (IA) sur le marché du travail est complexe et suscite des débats passionnés parmi les experts, les chercheurs et les acteurs de l'industrie, mais également au niveau du commun des mortels qui jouissent désormais d’un nouvel outil et n’hésitent pas à en faire usage.
 
 1. Optimisme sur la création d'emplois :

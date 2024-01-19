@@ -741,7 +741,7 @@ html.js .tile.large-loaded .image {
 .section-content {
   margin-left: auto;
   margin-right: auto;
-  width: 980px;
+  width: 1280px;
 }
 
 @media only screen and (min-width: 1441px) {
@@ -770,7 +770,7 @@ html.js .tile.large-loaded .image {
 
 @media only screen and (max-width: 734px) {
   .section-content {
-    max-width: 366px;
+    max-width: 513px;
   }
 }
 
@@ -7344,4 +7344,48 @@ ul>li, ol>li {
 
 code {
   margin: 0px 0.25em;
+}
+
+dl {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+dl dt {
+	text-align: left;
+  font-size: 22px;
+	width: 2.5em;
+	padding: 0.6em 1em 0em 0em;
+	position: relative;
+}
+
+dl dt::after {
+	content: '●';
+	position: absolute;
+	left: 4em;
+	top: 0.5px;
+	font-size: 35px;
+	color: black;
+}
+
+dl dd {
+	width: calc(100% - 15em);
+	padding: 0em 3.0em 3.0em;
+	border-left: 5px solid #000;
+}
+
+dl dd h2 {
+	font-size: 22px;
+	font-weight: bold;
+  padding: 0.6em 0em 0em 0em;
+	margin: 0 0 5px;
+}
+
+dl dd h3 {
+	font-size: 22px;
+  color: #ff0000;
+	font-weight: bold;
+  padding: 0.6em 0em 0em 0em;
+	margin: 0 0 5px;
 }
